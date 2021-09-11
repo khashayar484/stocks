@@ -10,3 +10,4 @@ as you can see here you can insert your stock and financial year and after pushi
 
 <img src="https://user-images.githubusercontent.com/54494078/132939776-b7097635-d977-42d5-89d3-53d3af5b5761.png" width="400" height="300" align = 'center' >
 
+<img src="https://user-images.githubusercontent.com/54494078/132939792-4e2c3777-18f5-4e76-9d28-4408578b88e5.png" width="400" height="300" align = 'center' >
